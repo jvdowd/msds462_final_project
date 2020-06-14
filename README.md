@@ -10,3 +10,5 @@ I was able to get through the preprocessing of images and train a model, but had
 Thus, to complete the project, I used the TuriCreate API (https://apple.github.io/turicreate/docs/api/) to obtain and process images, then train an object detection model and deploy it in an MLModel file for use in CoreML.
 
 That process was successful and the app was able to detect the presence of cars and bicycles, which not falsely hitting on skateboarders when tested in the real world.
+
+Files with Dowd in front are for the R-CNN experimentation, the msds462 are the TuriCreate.
