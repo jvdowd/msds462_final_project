@@ -1,6 +1,7 @@
 # msds462_final_project
 Code Related to Northwestern University MSDS 462 Final Project
 
+<b>Executive Summary</b><br>
 Project was to generate an edge-based Object Detection model that would be deployed through an iOS application that I can use on my iPhone. 
 
 My first pass was to attempt utilizing a Faster R-CNN model, trained on Open Image datasets (https://github.com/openimages/dataset_
