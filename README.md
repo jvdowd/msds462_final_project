@@ -22,3 +22,14 @@ That process was successful and the app was able to detect the presence of cars 
 <b>Image Acquisiton and Prep for TuriCreate Model:  </b>https://github.com/jvdowd/msds462_final_project/blob/master/msds462_final_project_ig02_images_data_preparation.ipynb<br>
 <br>
 <b>TuriCreate Model Training Code:  </b>https://github.com/jvdowd/msds462_final_project/blob/master/msds462_final_project_object_detection_model_training_code_Turi.ipynb<br>
+<br>
+<br>
+<b>References<b><br><br>
+Apple. “Recognizing Objects in Live Capture.” Recognizing Objects in Live Capture | Apple Developer Documentation, developer.apple.com/documentation/vision/recognizing_objects_in_live_capture.<br><br>
+Apple. “Turi Create API Documentation¶.” Turi Create API Documentation - Turi Create API 6.3 Documentation, apple.github.io/turicreate/docs/api/.<br><br>
+Hennon, Yan. “Yhenon/Keras-Rcnn.” GitHub, 25 Aug. 2017, github.com/yhenon/keras-rcnn.<br><br>
+Ren, Shaoqing, et al. “Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 39, no. 6, 2017, pp. 1137–1149., doi:10.1109/tpami.2016.2577031.<br><br>
+Tryolabs. “Faster R-CNN: Down the Rabbit Hole of Modern Object Detection.” Tryolabs Blog, Tryolabs, 18 Jan. 2018, tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/.<br><br>
+Xu, Yinghan. “Faster R-CNN (Object Detection) Implemented by Keras for Custom Data from Google's Open Images...” Medium, Towards Data Science, 25 Feb. 2019, towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a.<br><br>
+Xu, Yinghan. “RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras.” GitHub, 8 Apr. 2020, github.com/RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras.<br><br>
+
