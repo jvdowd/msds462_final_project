@@ -24,7 +24,7 @@ That process was successful and the app was able to detect the presence of cars 
 <b>TuriCreate Model Training Code:  </b>https://github.com/jvdowd/msds462_final_project/blob/master/msds462_final_project_object_detection_model_training_code_Turi.ipynb<br>
 <br>
 <br>
-<b>References<b><br><br>
+<b>References</b><br><br>
 Apple. “Recognizing Objects in Live Capture.” Recognizing Objects in Live Capture | Apple Developer Documentation, developer.apple.com/documentation/vision/recognizing_objects_in_live_capture.<br><br>
 Apple. “Turi Create API Documentation¶.” Turi Create API Documentation - Turi Create API 6.3 Documentation, apple.github.io/turicreate/docs/api/.<br><br>
 Hennon, Yan. “Yhenon/Keras-Rcnn.” GitHub, 25 Aug. 2017, github.com/yhenon/keras-rcnn.<br><br>
